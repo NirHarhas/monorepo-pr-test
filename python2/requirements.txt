@@ -1,4 +1,4 @@
 ujson==5.4.0
 click
 cryptography
-Flask==0.12.5
+Flask==1.0
